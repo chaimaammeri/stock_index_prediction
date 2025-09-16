@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+*.ipynb_checkpoints
+
+# Data
+data/
+*.csv
+*.xlsx
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
